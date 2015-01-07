@@ -27,6 +27,7 @@ public class MapsActivity extends FragmentActivity {
         mv.getOverlays().add(myLocationOverlay);
 
         //komentarz testowy 2
+        //komentarz testowy 2
 
 
     }
