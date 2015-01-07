@@ -26,7 +26,7 @@ public class MapsActivity extends FragmentActivity {
         myLocationOverlay.setDrawAccuracyEnabled(true);
         mv.getOverlays().add(myLocationOverlay);
 
-        //komentarz testowy
+        //komentarz testowy 2
 
 
     }
